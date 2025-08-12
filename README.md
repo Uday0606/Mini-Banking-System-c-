@@ -27,7 +27,11 @@ This project is a good demonstration of:
 - Standard Library: <iostream>, <string>, <vector>
 
 ---
-
+## How to Run:
+On Linux (Terminal):
+bash
+g++ mini_banking_system.cpp -o mini_banking_system
+./mini_banking_system
 
 ## Sample Output
     -- Mini Banking system---
